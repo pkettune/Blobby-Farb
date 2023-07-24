@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 7c85ce3333a594244a7f7c912ebca8fe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tikkaripari: {fileID: 7590159734129857346, guid: 32e839eb9eb44ae4fa9373f8fe170b0e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
